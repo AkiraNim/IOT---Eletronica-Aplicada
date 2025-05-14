@@ -6,7 +6,7 @@ Claro! Aqui está seu README atualizado com a nova seção **🔗 Links Importan
 
 ## 🔗 Links Importantes
 
-* [🔧 Simulação no 3D TinkerCad](https://www.tinkercad.com/things/fIo4fI4Vcfz-copy-of-speed-line-follower-robot-v4?sharecode=nArqtL2eGQSuooyKRuTVUidTz7WWIeUg9Up54wJF2s8)
+## 🔧 [Simulação em 3D no TinkerCad](https://www.tinkercad.com/things/fIo4fI4Vcfz-copy-of-speed-line-follower-robot-v4?sharecode=nArqtL2eGQSuooyKRuTVUidTz7WWIeUg9Up54wJF2s8)
 
 ---
 
@@ -75,8 +75,6 @@ Exemplo do carro seguidor de linha<!-- substitua por uma imagem real do projeto 
 * Controle via app mobile
 * Reconhecimento de curvas mais acentuadas
 * Calibração automática dos sensores
-
----
 
 ---
 
