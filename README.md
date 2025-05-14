@@ -14,7 +14,7 @@ Este é um projeto de IoT que implementa um **carro autônomo seguidor de linha*
 
 ## 📸 Visão Geral
 
-![Exemplo do carro seguidor de linha](https://via.placeholder.com/800x400) <!-- substitua por uma imagem real do projeto -->
+Exemplo do carro seguidor de linha<!-- substitua por uma imagem real do projeto -->
 
 ---
 
@@ -77,10 +77,6 @@ Este é um projeto de IoT que implementa um **carro autônomo seguidor de linha*
 * Calibração automática dos sensores
 
 ---
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
