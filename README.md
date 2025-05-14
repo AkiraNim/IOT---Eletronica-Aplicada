@@ -14,7 +14,7 @@ Este é um projeto de IoT que implementa um **carro autônomo seguidor de linha*
 
 ## 📸 Visão Geral
 
-Exemplo do carro seguidor de linha<!-- substitua por uma imagem real do projeto -->
+Exemplo do carro seguidor de linha (pendente)<!-- substitua por uma imagem real do projeto -->
 
 ---
 
