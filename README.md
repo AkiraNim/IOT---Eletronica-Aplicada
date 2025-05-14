@@ -1,7 +1,3 @@
-Claro! Aqui está seu README atualizado com a nova seção **🔗 Links Importantes** adicionada no topo:
-
----
-
 # 🚗 Projeto IoT: Carro Seguidor de Linha com Sensor Infravermelho
 
 ## 🔗 Links Importantes
