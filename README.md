@@ -1,16 +1,11 @@
 # 🚗 Projeto IoT: Carro Seguidor de Linha com Sensor Infravermelho
-
-## 🔗 Links Importantes
-
-## 🔧 [Simulação em 3D no TinkerCad](https://www.tinkercad.com/things/fIo4fI4Vcfz-copy-of-speed-line-follower-robot-v4?sharecode=nArqtL2eGQSuooyKRuTVUidTz7WWIeUg9Up54wJF2s8)
-
 ---
 
 Este é um projeto de IoT que implementa um **carro autônomo seguidor de linha**, utilizando sensores infravermelhos para detectar o trajeto e seguir uma linha preta em fundo branco. Ideal para introdução à robótica, automação e sistemas embarcados.
 
 ## 📸 Visão Geral
 
-Exemplo do carro seguidor de linha (pendente)<!-- substitua por uma imagem real do projeto -->
+[Simulação em 3D no TinkerCad](https://www.tinkercad.com/things/fIo4fI4Vcfz-copy-of-speed-line-follower-robot-v4?sharecode=nArqtL2eGQSuooyKRuTVUidTz7WWIeUg9Up54wJF2s8)
 
 ---
 
