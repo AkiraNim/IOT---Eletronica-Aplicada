@@ -16,14 +16,12 @@ Exemplo do carro seguidor de linha (pendente)<!-- substitua por uma imagem real 
 
 ## 🛠️ Tecnologias e Componentes
 
-* **Microcontrolador**: ESP32 / Arduino UNO (dependendo da versão usada)
-* **Sensores**: Módulo sensor infravermelho TCRT5000 (ou similar)
-* **Motores**: 2 motores DC com driver ponte H (L298N ou L293D)
+* **Microcontrolador**:Arduino Nano 
+* **Sensores**: Módulo sensor infravermelho TCRT5000 
+* **Motores**: 2 motores DC com driver ponte H 
 * **Estrutura**: Chassi 2WD com rodas e suporte
-* **Fonte de energia**: Bateria 9V ou pack de pilhas
-* **IoT (opcional)**: Envio de dados via Wi-Fi ou Bluetooth (usando ESP32)
+* **Fonte de energia**: 2 Baterias 9V 
 
----
 
 ## 📦 Estrutura do Projeto
 
@@ -44,9 +42,7 @@ Exemplo do carro seguidor de linha (pendente)<!-- substitua por uma imagem real 
 * Os sensores IR devem ser posicionados na frente do carro, voltados para baixo.
 * Conecte os motores ao driver de motor (L298N/L293D) e este ao microcontrolador.
 * Sensores IR conectados às portas analógicas/digitais.
-* Opcional: Conexão com Wi-Fi para envio de dados (com ESP32).
 
----
 
 ## 🚦 Funcionamento
 
@@ -54,7 +50,6 @@ Exemplo do carro seguidor de linha (pendente)<!-- substitua por uma imagem real 
 2. O microcontrolador interpreta os sinais dos sensores.
 3. Com base na posição da linha, os motores são ajustados para manter o carro na trajetória.
 
----
 
 ## ▶️ Como Usar
 
@@ -63,16 +58,6 @@ Exemplo do carro seguidor de linha (pendente)<!-- substitua por uma imagem real 
 3. Posicione o carro sobre a trilha com linha preta.
 4. Ligue o sistema e observe o funcionamento.
 
----
-
-## 💡 Possíveis Melhorias
-
-* Comunicação em tempo real com servidor IoT (MQTT, Firebase etc.)
-* Controle via app mobile
-* Reconhecimento de curvas mais acentuadas
-* Calibração automática dos sensores
-
----
 
 ## 🤝 Contribuindo
 
