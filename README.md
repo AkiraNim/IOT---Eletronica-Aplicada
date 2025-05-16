@@ -1,7 +1,7 @@
 # 🚗 Projeto IoT: Carro Seguidor de Linha com Sensor Infravermelho
 ---
 
-Este é um projeto de IoT que implementa um **carro autônomo seguidor de linha**, utilizando sensores infravermelhos para detectar o trajeto e seguir uma linha preta em fundo branco. Ideal para introdução à robótica, automação e sistemas embarcados.
+Este é um projeto de IoT que implementa um **carro autônomo seguidor de linha**, utilizando sensores infravermelhos para detectar o trajeto e seguir uma linha branca em fundo preto. Ideal para introdução à robótica, automação e sistemas embarcados.
 
 ## 📸 Visão Geral
 
